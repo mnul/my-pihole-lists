@@ -44,3 +44,6 @@ mail.google.com
 docs.google.com
 accounts.google.com
 android.clients.google.com
+clients1.google.com
+translate.google.com
+web.de
