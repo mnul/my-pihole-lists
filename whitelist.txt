@@ -36,3 +36,11 @@ aliexpress.com
 www.facebook.com
 google.de
 www.google.com
+fls-eu.amazon.de
+images-na.ssl-images-amazon.com
+edge-mqtt.facebook.com
+graph.facebook.com
+mail.google.com
+docs.google.com
+accounts.google.com
+android.clients.google.com
