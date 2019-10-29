@@ -47,3 +47,8 @@ android.clients.google.com
 clients1.google.com
 translate.google.com
 web.de
+tracking.epicgames.com
+imgur.com
+apis.google.com
+p.imgur.com
+spclient.wg.spotify.com
