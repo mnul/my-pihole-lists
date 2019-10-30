@@ -53,3 +53,6 @@ apis.google.com
 p.imgur.com
 spclient.wg.spotify.com
 www.pornhub.com
+stadt-bremerhaven.de
+sourceforge.net
+apple.com
