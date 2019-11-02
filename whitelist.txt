@@ -70,3 +70,5 @@ winfuture.de
 upload.wikimedia.org
 amazon.de
 9gag.com
+ebay.de
+youtube.de
