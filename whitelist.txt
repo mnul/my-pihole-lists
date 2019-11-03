@@ -72,3 +72,6 @@ amazon.de
 9gag.com
 ebay.de
 youtube.de
+get.adobe.com
+adobe.com
+get3.adobe.com
