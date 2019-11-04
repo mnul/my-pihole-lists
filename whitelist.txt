@@ -75,3 +75,4 @@ youtube.de
 get.adobe.com
 adobe.com
 get3.adobe.com
+api.nfl.com
