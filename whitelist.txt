@@ -83,3 +83,5 @@ nitroflare.com
 support.google.com
 1und1.de
 player.vimeo.com
+forum.xda-developers.com
+facebook.com
