@@ -86,3 +86,7 @@ player.vimeo.com
 forum.xda-developers.com
 facebook.com
 best.aliexpress.com
+taobao.com
+ae01.alicdn.com
+adashx4ae.ut.taobao.com
+de.aliexpress.com
