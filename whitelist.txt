@@ -90,3 +90,6 @@ taobao.com
 ae01.alicdn.com
 adashx4ae.ut.taobao.com
 de.aliexpress.com
+nfl.hb.omtrdc.net
+cdnjs.cloudflare.com
+cdn.jsdelivr.net
