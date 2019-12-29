@@ -122,3 +122,4 @@ static.wixstatic.com
 frog.wix.com
 hoerbuch.us
 3dl.tv
+knowyourmeme.com
