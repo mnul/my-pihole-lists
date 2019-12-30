@@ -123,3 +123,5 @@ frog.wix.com
 hoerbuch.us
 3dl.tv
 knowyourmeme.com
+youtube.com
+maps.google.com
