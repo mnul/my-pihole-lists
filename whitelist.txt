@@ -128,3 +128,7 @@ maps.google.com
 wickedweasel.com
 pastebin.com
 audiovision.de
+reddit.com
+uhrforum.de
+maps.googleapis.com
+maps.gstatic.com
