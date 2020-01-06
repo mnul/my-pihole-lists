@@ -132,3 +132,4 @@ reddit.com
 uhrforum.de
 maps.googleapis.com
 maps.gstatic.com
+vimeo.com
