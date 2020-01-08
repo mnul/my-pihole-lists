@@ -133,3 +133,4 @@ uhrforum.de
 maps.googleapis.com
 maps.gstatic.com
 vimeo.com
+hackaday.com
