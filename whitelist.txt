@@ -134,3 +134,6 @@ maps.googleapis.com
 maps.gstatic.com
 vimeo.com
 hackaday.com
+ebook-hell.to
+tarnkappe.info
+byte.to
